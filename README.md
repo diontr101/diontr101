@@ -15,7 +15,6 @@
 ### Connect with me:
 [<img align="left" alt="Diontrinsta | instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 [<img align="left" alt="Diontrtwit | twitter" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="Diontrweb | website" width="25px" src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1643276132~hmac=f140f282ce2857f68acee59f1794ca97" />][website]
 
 <br />
 
